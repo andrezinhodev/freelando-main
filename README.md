@@ -1,4 +1,3 @@
-![Freelando](thumbnail.png)
 
 # Freelando
 

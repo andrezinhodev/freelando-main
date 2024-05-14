@@ -28,14 +28,3 @@ Se liga nessa lista de tudo que usaremos nesse curso:
 - `Figma`
 
 E muito mais!
-
-## 🛠️ Abrir e rodar o projeto
-
-Para abrir e rodar o projeto, execute `npm i` para instalar as dependências e `npm start` para inicar o projeto.
-
-Depois, acesse <a href="http://localhost:3000/">http://localhost:3000/</a> no seu navegador.
-
-## 📚 Mais informações do curso
-
-O Freelando é uma StartUP fictícia utilizada nesse curso da Alura.
-A ideia principal desse curso é evoluir ainda mais os conhecimentos em React e estilização de componentes.
